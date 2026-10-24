@@ -1,0 +1,34 @@
+# Java / Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+!.mvn/wrapper/maven-wrapper.properties
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Local env / secrets
+.env
+.env.*
+
+# Database / local runtime data
+*.db
+*.sqlite
+*.sqlite3
+pgdata/
+
+# Temporary files
+*.tmp
+*.temp
